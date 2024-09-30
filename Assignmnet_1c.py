@@ -52,3 +52,4 @@ print(f"The metric weight is {Metric_ton}ton, {remaining_kilo}kilo, and {grams: 
 
 
 #print(f"Your weekly Payment will be: ${weekly_payment:.2f}")
+print("Hope you liked it")
